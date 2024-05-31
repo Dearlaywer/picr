@@ -1,5 +1,4 @@
-# 图床
-用于 http://yuanfoudev.github.io 的图床
+## 基于 PicGo 的传输尝试
 
-# 基于 PicGo的尝试
-纪念我这次尝试
+This is an exercise of transmitting from local to remote.
+这是一种本地到远端传输的练习。
